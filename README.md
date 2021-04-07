@@ -9,8 +9,9 @@ You can find more about my background on my [![Linkedin](https://i.stack.imgur.c
 
 ### My Github
 <div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rturaj&layout=compact" alt="top-langs" height="200px" />
-<img src="https://github-readme-stats.vercel.app/api?username=rturaj&show_icons=true" alt="GitHub stats"  align="right" height="200px"/>
+<img align="top" src="https://github-readme-stats.vercel.app/api?username=rturaj&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" alt="My github stats" />
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rturaj&langs_count=20&layout=compact&count_private=true&hide_border=true" alt="Top Langs" />
+
 </div>
 
 ###
