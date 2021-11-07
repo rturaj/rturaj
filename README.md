@@ -1,10 +1,10 @@
 ### Hi, I'm Roman Turaj! 👋👋👋
 
-I'm Fullstack Developer working mainly in Javascript and less in Typescript. My primary frontend framework is Vue.js, but I'm also able to work with React.js. I'm familiar with state management libraries - Vuex and Redux. I know SSR and frameworks which allow to work with it - Nuxt and Next. I'm fluent with CSS, tools related to it like SCSS or TailwindCSS and UI libraries such as Vuetify and Material UI. I also know basics of 3D rendering in the browsers and Three.js framework.
+I'm a Fullstack Developer working mainly in Javascript and also Typescript. My primary frontend framework is Vue.js, but I'm also able to work with React.js. I'm familiar with state management libraries - Vuex and Redux. I know SSR and its frameworks - Nuxt and Next. I'm fluent with CSS, tools related to it like SCSS or TailwindCSS, and UI libraries such as Vuetify and Material UI. I also know the basics of 3D rendering in browsers and Three.js framework.
 
-On the backend I use Node.js and its frameworks - Express.js, Nest.js and Serverless. I know relational databases such as MySQL, PostgreSQL and non-relational - MongoDB. To work with them I use ORMs - Sequelize, TypeORM and ODM - Mongoose. I use Jest.js for testing, Git for control version, Swagger for API documentation, Docker for containerization and Jenkins for CD/CI. This is what I can do at the moment - however, my priority is to meet a business needs, so I'm open to learn everything which allows me to achieve that.
+On the backend I use Node.js and its frameworks - Express.js, Nest.js and Serverless. I know relational databases such as MySQL, PostgreSQL, and non-relational databases like MongoDB. To work with them I use ORMs - Sequelize, TypeORM and ODM - Mongoose. I use Jest.js for testing, Git for version control, Swagger for API documentation, Docker for containerization, and Jenkins for CD/CI. This is what I can do at the moment - however, my priority is to meet business needs, so I'm open to learning everything which allows me to achieve that.
 
-I love programming and I spend time for learning every day. I would like to work in an international company where I could mature as a programmer and become Senior Developer / Team leader in the future.
+I love programming and I spend time learning every day. I would like to work in an international company where I could mature as a programmer and become Senior Developer / Team leader in the future.
  
 
 ### My Github
